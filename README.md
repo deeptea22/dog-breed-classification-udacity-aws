@@ -63,7 +63,8 @@ No errors arose during the session.
 ![Debugger Output](https://github.com/deeptea22/dog-breed-classification-udacity-aws/blob/main/Relevant%20Screenshots/debugger_output.PNG)
 
 If we did face errors, we can take a look at the CloudWatch logs to understand where we wrong and also have a look at the profiler/debugger report. Then we can look at the documentation to fix it.
-
+### Graph of CrossEntropyLoss
+![CrossEntropyLoss Graph](https://github.com/deeptea22/dog-breed-classification-udacity-aws/blob/main/Relevant%20Screenshots/Graph.png)
 
 ## Model Deployment
 **TODO**: Give an overview of the deployed model and instructions on how to query the endpoint with a sample input.
